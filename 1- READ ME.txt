@@ -1,0 +1,4 @@
+Firstly You Must Place The Mod's You'll Use In Mods Folder Of Minecraft, Here's A Tutorial:
+
+firstly Press "WIN + R" To Open "Run" Then Type "%appdata%" In Run's Bar Then Open Roaming, 
+If Roaming Was'nt There Click .minecraft Then Open "Mods" Folder then You Can Place The Mods IN It.
